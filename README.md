@@ -1,6 +1,6 @@
 
-Experiment-8
-#Study the system specifications of an ATM system and report any identified bugs.
+## Experiment-8
+### Study the system specifications of an ATM system and report any identified bugs.
 
 ## Purpose:
 This document describes the software requirements and specification (SRS) for an automated teller machine (ATM) network. The document is intended for the customer and the developer (designers, testers, maintainers). The reader is assumed to have basic knowledge of banking accounts and account services. Knowledge and understanding of Unified Modeling Language (UML) diagrams is also required.
